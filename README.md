@@ -1,4 +1,4 @@
-# Zomboid Builds v41.78.16-refactor
+# Zomboid Builds v41.78.16
 
 Una aplicación web moderna para crear y gestionar builds de personajes en Project Zomboid. Esta herramienta permite a los jugadores diseñar sus personajes de manera intuitiva, gestionando profesiones, rasgos positivos y negativos, y calculando automáticamente las habilidades resultantes.
 
@@ -236,4 +236,4 @@ Este proyecto está bajo la Licencia MIT.
 ---
 
 **Versión**: v41.78.16-refactor  
-**Última actualización**: 2024
+**Última actualización**: 2025
