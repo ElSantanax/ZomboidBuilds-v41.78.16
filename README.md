@@ -4,6 +4,8 @@ Una aplicación web moderna para crear y gestionar builds de personajes en Proje
 
 ![zomboidbuild-es](https://github.com/user-attachments/assets/6f7cc283-e88d-4c2f-86ac-af26eaeed9ac)
 
+<img width="1920" height="1080" alt="Captura de pantalla de 2025-08-05 21-23-39" src="https://github.com/user-attachments/assets/68bf5c1b-f32c-4c29-b4bd-6f2c6a4d9108" />
+
 ## 🎮 ¿Qué es Zomboid Builds?
 
 Zomboid Builds es una aplicación web que simplifica el proceso de creación de personajes en Project Zomboid. En lugar de usar la interfaz del juego, los jugadores pueden:
