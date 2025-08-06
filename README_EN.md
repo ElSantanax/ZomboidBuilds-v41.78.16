@@ -1,4 +1,4 @@
-# Zomboid Builds v41.78.16-refactor
+# Zomboid Builds v41.78.16
 
 A modern web application for creating and managing character builds in Project Zomboid. This tool allows players to design their characters intuitively, managing professions, positive and negative traits, and automatically calculating the resulting skills.
 
@@ -235,5 +235,5 @@ This project is under the MIT License.
 
 ---
 
-**Version**: v41.78.16-refactor  
-**Last updated**: 2024 
+**Version**: v41.78.16 
+**Last updated**: 2025
